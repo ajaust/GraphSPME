@@ -24,7 +24,7 @@ dev = ["pytest",
 requires = [
     "setuptools>=42",
     "wheel",
-    "pybind11>=2.8.0",
+    "pybind11>=2.8.0,<3",
     "setuptools_scm[toml]>=6.2",
 ]
 
